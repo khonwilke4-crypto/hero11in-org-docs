@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khonwilke4-crypto.github.io/hero11in-org-docs/sitemap.xml
